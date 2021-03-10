@@ -2,7 +2,7 @@
 
 This demo is how jupyter notebooks work.
 You can run this online, by clicking on the below link, nothing to install or follow, try it here:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PythonTriCities/jupyter_intro.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PythonTriCities/jupyter_intro.git/main)
 
 ### Prerequisites
 
